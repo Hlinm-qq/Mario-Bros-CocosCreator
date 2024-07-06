@@ -5,6 +5,6 @@ Recreation of Super-Mario-Bros
 * Hosting: [Google Firebase](https://firebase.google.com/)
 * Web APP Link: [Mario-Bros](https://mario002-a9cb5.firebaseapp.com/)
 
-Game keyboard control:
-d: go right
+Game keyboard control:  
+d: go right  
 w: jump
