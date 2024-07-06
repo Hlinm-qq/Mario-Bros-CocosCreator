@@ -6,5 +6,5 @@ Recreation of Super-Mario-Bros
 * Web APP Link: [Mario-Bros](https://mario002-a9cb5.firebaseapp.com/)
 
 Game keyboard control:  
-d: go right  
-w: jump
+'d': go right  
+'w': jump
